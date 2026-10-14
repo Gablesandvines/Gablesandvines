@@ -1,36 +1,39 @@
-<!-- 顶部动态渐变 Banner -->
+<!-- 顶部渐变 Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Gablesandvines&fontSize=42&fontAlignY=38&desc=AI%20Agent%20Builder%20%C2%B7%20%E4%B8%AD%E6%96%87%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%AE%9A%E6%97%B6%E8%83%BD%E5%8A%9B%E5%B9%B3%E5%8F%B0&descAlignY=58&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Gablesandvines&fontSize=40&fontAlignY=40" />
 </p>
 
 <h1 align="center">👋 你好，我是 zhone</h1>
+<p align="center"><b>中文自然语言定时能力平台开发者 · AI Agent 探索者</b></p>
 
-<div align="center">
+<p align="center">
   <!-- 访客计数器 -->
-  <img src="https://komarev.com/ghpvc/?username=Gablesandvines&label=PROFILE%20VIEWS&color=blueviolet&style=flat-square" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Gablesandvines&label=PROFILE%20VIEWS&color=blueviolet&style=flat-square" alt="views" />
   <!-- GitHub Trophies -->
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Gablesandvines&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" alt="trophies" />
-  </a>
-</div>
+  <img src="https://github-profile-trophy.vercel.app/?username=Gablesandvines&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" alt="trophies" />
+</p>
 
 ---
 
 ## 🧑‍💻 关于我
 
-- 🌱 正在构建 **中文自然语言定时能力平台**：解析自然语言闹钟、托管定时任务、Webhook 投递，可 Docker 自托管
-- 💡 关注 **AI Agent / LLM 应用落地**，喜欢把大模型能力封装成好用的工具
-- 🛠️ 技术偏好：**轻量、可自托管、低依赖**
-- 🌏 当前公开项目聚焦于「闹钟提醒 Agent」与「AI 旅游规划 Agent」原型
-- 📫 如何联系我：**（邮箱 / 博客待补充）**
+| | |
+|---|---|
+| 🌱 正在构建 | **中文自然语言定时能力平台**：解析自然语言闹钟、托管定时任务、Webhook 投递，可 Docker 自托管 |
+| 💡 关注方向 | **AI Agent / LLM 应用落地**，把大模型能力封装成好用的工具 |
+| 🛠️ 技术偏好 | **轻量、可自托管、低依赖** |
+| 🌏 当前公开 | 「闹钟提醒 Agent」与「AI 旅游规划 Agent」原型 |
+| 📫 联系方式 | **（邮箱 / 博客待补充）** |
 
 ---
 
 ## 🛠️ 技术栈
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
@@ -43,40 +46,40 @@
 
 ## 📊 GitHub 数据
 
-<div align="center">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Gablesandvines&show_icons=true&theme=tokyonight&hide_border=true&locale=zh-Hans&include_all_commits=true" height="170" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gablesandvines&layout=compact&theme=tokyonight&hide_border=true&locale=zh-Hans" height="170" alt="Top Languages" />
-</div>
+</p>
 
-<div align="center">
+<!-- 贡献活动图（参考 hoochanlon 主页的贡献日历风格） -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gablesandvines&theme=tokyo-night&hide_border=true&radius=12" alt="Contribution Graph" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gablesandvines&theme=tokyonight&hide_border=true&locale=zh-Hans" height="170" alt="Streak Stats" />
-</div>
+</p>
 
 ---
 
 ## 🚀 精选项目
 
-<div align="center">
+<p align="center">
   <a href="https://github.com/Gablesandvines/alarm-agent">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gablesandvines&repo=alarm-agent&theme=tokyonight&hide_border=true&locale=zh-Hans" alt="alarm-agent" />
   </a>
-</div>
+</p>
 
 > 💡 **alarm-agent** —— 中文自然语言定时能力平台：解析自然语言闹钟、托管定时任务、Webhook 投递、开发者门户与三档套餐。基于 Node 22 + 内置 `node:sqlite`，可自托管 Docker 部署。
 
-<!-- 更多项目（如 AI 旅游规划 Agent）上线后可在此补充 -->
-
 ---
 
-## 🤝 一起折腾
+## 🧭 快速导航
 
-<p align="left">
-  <a href="https://github.com/Gablesandvines?tab=repositories">
-    <img src="https://img.shields.io/badge/我的仓库-View%20Repos-blue?style=for-the-badge&logo=github" alt="repos" />
-  </a>
-  <a href="https://github.com/Gablesandvines?tab=followers">
-    <img src="https://img.shields.io/badge/Follow-关注-1da1f2?style=for-the-badge&logo=github" alt="follow" />
-  </a>
+<p align="center">
+  <a href="https://github.com/Gablesandvines?tab=repositories"><img src="https://img.shields.io/badge/我的仓库-Repos-1f6feb?style=for-the-badge&logo=github&logoColor=white" alt="repos" /></a>
+  <a href="https://github.com/Gablesandvines?tab=stars"><img src="https://img.shields.io/badge/Starred-Stars-ffac33?style=for-the-badge&logo=github&logoColor=white" alt="stars" /></a>
+  <a href="https://github.com/Gablesandvines?tab=followers"><img src="https://img.shields.io/badge/Follow-关注-1da1f2?style=for-the-badge&logo=github&logoColor=white" alt="follow" /></a>
 </p>
 
 <div align="center">
