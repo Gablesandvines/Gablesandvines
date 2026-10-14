@@ -24,11 +24,20 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" title="HTML5" />
 </p>
 
-<p align="center"><b>⚙️ 后端 / 基础设施</b></p>
+<p align="center"><b>🗄️ 数据库 / 缓存 / 搜索</b></p>
 <p align="center">
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" title="SQLite" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" title="Docker" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" title="MySQL" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" title="Redis" />
+  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" alt="Elasticsearch" title="Elasticsearch" />
+</p>
+
+<p align="center"><b>⚙️ 后端 / 中间件 / 运维</b></p>
+<p align="center">
   <img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=databricks&logoColor=white" alt="REST API" title="REST API" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" title="Docker" />
+  <img src="https://img.shields.io/badge/Nacos-0099FF?style=for-the-badge&logo=nacos&logoColor=white" alt="Nacos" title="Nacos" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" title="Jenkins" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" title="Git" />
 </p>
 
