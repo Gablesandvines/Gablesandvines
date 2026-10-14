@@ -39,15 +39,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gablesandvines&layout=compact&theme=tokyonight&hide_border=true&locale=zh-Hans" height="170" alt="Top Languages" />
 </p>
 
-<!-- 贡献活动图（参考 hoochanlon 主页的贡献日历风格） -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gablesandvines&theme=tokyo-night&hide_border=true&radius=12" alt="Contribution Graph" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gablesandvines&theme=tokyonight&hide_border=true&locale=zh-Hans" height="170" alt="Streak Stats" />
-</p>
-
 ---
 
 ## 🚀 精选项目
