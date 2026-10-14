@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="zhone 个人主页 Banner">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1a1b26"/>
+      <stop offset="55%" stop-color="#24283b"/>
+      <stop offset="100%" stop-color="#3b4261"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#7aa2f7"/>
+      <stop offset="100%" stop-color="#bb9af7"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="82%" cy="28%" r="55%">
+      <stop offset="0%" stop-color="#7aa2f7" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#7aa2f7" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <!-- 背景 -->
+  <rect width="1200" height="320" fill="url(#bg)"/>
+  <rect width="1200" height="320" fill="url(#glow)"/>
+
+  <!-- 右上角装饰：仿贡献热力图的圆点矩阵 -->
+  <g opacity="0.5" fill="#414868">
+    <!-- 由脚本无法运行时手绘 7 行 x 10 列点阵，点缀科技感 -->
+    <!-- 行 1 -->
+    <circle cx="860" cy="40" r="6"/><circle cx="892" cy="40" r="6"/><circle cx="924" cy="40" r="6" fill="#3aa675"/><circle cx="956" cy="40" r="6"/><circle cx="988" cy="40" r="6" fill="#2f7d5b"/><circle cx="1020" cy="40" r="6"/><circle cx="1052" cy="40" r="6" fill="#3aa675"/><circle cx="1084" cy="40" r="6"/><circle cx="1116" cy="40" r="6" fill="#2f7d5b"/><circle cx="1148" cy="40" r="6"/>
+    <!-- 行 2 -->
+    <circle cx="860" cy="72" r="6" fill="#3aa675"/><circle cx="892" cy="72" r="6"/><circle cx="924" cy="72" r="6"/><circle cx="956" cy="72" r="6" fill="#2f7d5b"/><circle cx="988" cy="72" r="6"/><circle cx="1020" cy="72" r="6" fill="#3aa675"/><circle cx="1052" cy="72" r="6"/><circle cx="1084" cy="72" r="6"/><circle cx="1116" cy="72" r="6" fill="#2f7d5b"/><circle cx="1148" cy="72" r="6" fill="#3aa675"/>
+    <!-- 行 3 -->
+    <circle cx="860" cy="104" r="6"/><circle cx="892" cy="104" r="6" fill="#2f7d5b"/><circle cx="924" cy="104" r="6" fill="#3aa675"/><circle cx="956" cy="104" r="6"/><circle cx="988" cy="104" r="6"/><circle cx="1020" cy="104" r="6" fill="#2f7d5b"/><circle cx="1052" cy="104" r="6" fill="#3aa675"/><circle cx="1084" cy="104" r="6"/><circle cx="1116" cy="104" r="6"/><circle cx="1148" cy="104" r="6" fill="#2f7d5b"/>
+    <!-- 行 4 -->
+    <circle cx="860" cy="136" r="6" fill="#3aa675"/><circle cx="892" cy="136" r="6"/><circle cx="924" cy="136" r="6"/><circle cx="956" cy="136" r="6" fill="#3aa675"/><circle cx="988" cy="136" r="6" fill="#2f7d5b"/><circle cx="1020" cy="136" r="6"/><circle cx="1052" cy="136" r="6"/><circle cx="1084" cy="136" r="6" fill="#3aa675"/><circle cx="1116" cy="136" r="6" fill="#2f7d5b"/><circle cx="1148" cy="136" r="6"/>
+    <!-- 行 5 -->
+    <circle cx="860" cy="168" r="6"/><circle cx="892" cy="168" r="6" fill="#2f7d5b"/><circle cx="924" cy="168" r="6"/><circle cx="956" cy="168" r="6"/><circle cx="988" cy="168" r="6" fill="#3aa675"/><circle cx="1020" cy="168" r="6"/><circle cx="1052" cy="168" r="6" fill="#2f7d5b"/><circle cx="1084" cy="168" r="6"/><circle cx="1116" cy="168" r="6" fill="#3aa675"/><circle cx="1148" cy="168" r="6"/>
+    <!-- 行 6 -->
+    <circle cx="860" cy="200" r="6" fill="#3aa675"/><circle cx="892" cy="200" r="6"/><circle cx="924" cy="200" r="6" fill="#2f7d5b"/><circle cx="956" cy="200" r="6"/><circle cx="988" cy="200" r="6"/><circle cx="1020" cy="200" r="6" fill="#3aa675"/><circle cx="1052" cy="200" r="6"/><circle cx="1084" cy="200" r="6" fill="#2f7d5b"/><circle cx="1116" cy="200" r="6"/><circle cx="1148" cy="200" r="6" fill="#3aa675"/>
+    <!-- 行 7 -->
+    <circle cx="860" cy="232" r="6"/><circle cx="892" cy="232" r="6"/><circle cx="924" cy="232" r="6" fill="#3aa675"/><circle cx="956" cy="232" r="6" fill="#2f7d5b"/><circle cx="988" cy="232" r="6"/><circle cx="1020" cy="232" r="6"/><circle cx="1052" cy="232" r="6" fill="#3aa675"/><circle cx="1084" cy="232" r="6"/><circle cx="1116" cy="232" r="6" fill="#2f7d5b"/><circle cx="1148" cy="232" r="6"/>
+  </g>
+
+  <!-- 主标题 -->
+  <text x="64" y="168" font-family="'Segoe UI','PingFang SC','Microsoft YaHei',sans-serif" font-size="88" font-weight="700" fill="url(#accent)" letter-spacing="1">zhone</text>
+  <!-- 副标题 -->
+  <text x="68" y="226" font-family="'Segoe UI','PingFang SC','Microsoft YaHei',sans-serif" font-size="30" font-weight="400" fill="#c0caf5">全栈开发者 · AI Agent 与自动化探索者</text>
+  <!-- 底部细线 -->
+  <rect x="64" y="248" width="520" height="3" rx="1.5" fill="url(#accent)" opacity="0.8"/>
+</svg>
