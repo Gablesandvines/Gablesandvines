@@ -1,17 +1,5 @@
-<!-- 顶部渐变 Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Gablesandvines&fontSize=40&fontAlignY=40" />
-</p>
-
 <h1 align="center">👋 你好，我是 zhone</h1>
 <p align="center"><b>中文自然语言定时能力平台开发者 · AI Agent 探索者</b></p>
-
-<p align="center">
-  <!-- 访客计数器 -->
-  <img src="https://komarev.com/ghpvc/?username=Gablesandvines&label=PROFILE%20VIEWS&color=blueviolet&style=flat-square" alt="views" />
-  <!-- GitHub Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=Gablesandvines&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" alt="trophies" />
-</p>
 
 ---
 
@@ -60,7 +48,3 @@
   <a href="https://github.com/Gablesandvines?tab=stars"><img src="https://img.shields.io/badge/Starred-Stars-ffac33?style=for-the-badge&logo=github&logoColor=white" alt="stars" /></a>
   <a href="https://github.com/Gablesandvines?tab=followers"><img src="https://img.shields.io/badge/Follow-关注-1da1f2?style=for-the-badge&logo=github&logoColor=white" alt="follow" /></a>
 </p>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=flat&color=gradient&customColorList=6,11,20&height=80&section=footer&text=Thanks%20for%20visiting!&fontSize=20" alt="footer" />
-</div>
