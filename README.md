@@ -1,5 +1,5 @@
 <h1 align="center">👋 你好，我是 zhone</h1>
-<p align="center"><b>中文自然语言定时能力平台开发者 · AI Agent 探索者</b></p>
+<p align="center"><b>全栈开发者 · AI Agent 与自动化探索者</b></p>
 
 ---
 
