@@ -20,20 +20,11 @@
 
 ---
 
-## 📊 GitHub 数据
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gablesandvines&show_icons=true&theme=tokyonight&hide_border=true&locale=zh-Hans&include_all_commits=true" height="170" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gablesandvines&layout=compact&theme=tokyonight&hide_border=true&locale=zh-Hans" height="170" alt="Top Languages" />
-</p>
-
----
-
 ## 🚀 精选项目
 
 <p align="center">
   <a href="https://github.com/Gablesandvines/alarm-agent">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gablesandvines&repo=alarm-agent&theme=tokyonight&hide_border=true&locale=zh-Hans" alt="alarm-agent" />
+    <img src="https://img.shields.io/badge/alarm--agent-查看仓库-1f6feb?style=for-the-badge&logo=github&logoColor=white" alt="alarm-agent" />
   </a>
 </p>
 
