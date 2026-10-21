@@ -5,14 +5,6 @@
 <h1 align="center">👋 你好，我是 zhone</h1>
 <p align="center"><b>全栈开发者 · AI Agent 与自动化探索者</b></p>
 
----
-
-<h2>👤 关于我</h2>
-
-<p>我是一名全栈开发者，专注于把 <b>AI / LLM</b> 能力封装成普通人也能轻松上手的实用工具。偏好<b>轻量、可自托管、低依赖</b>的技术方案，相信好的工具应当安静地帮人把事情做完。</p>
-
----
-
 <h2>🛠️ 技术栈</h2>
 
 <p align="center"><b>🧩 语言</b></p>
@@ -53,15 +45,6 @@
   <img src="https://img.shields.io/badge/AI%20%2F%20LLM-412991?style=for-the-badge&logo=openai&logoColor=white" alt="AI/LLM" title="AI / LLM" />
 </p>
 
----
-
-<h2>📌 当前关注</h2>
-
-- 🤖 **Agent 的自托管与工具化落地** —— 让能力可被部署、被调用、被组合
-- 🗣️ **自然语言交互** —— 把口语化的意图转换成可靠的自动化任务
-- 🧰 **开发者友好的开源体验** —— 低门槛、可本地跑、文档清晰
-
----
 
 <h2>🚀 精选项目</h2>
 
