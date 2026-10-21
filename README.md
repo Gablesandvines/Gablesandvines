@@ -74,7 +74,6 @@
   <img src="./assets/contribution-snake.svg" alt="贡献活动图" />
 </p>
 
-> 由 GitHub Actions 每日自动生成并提交至仓库，<b>不依赖任何第三方图床</b>，稳定加载。
 
 ---
 
