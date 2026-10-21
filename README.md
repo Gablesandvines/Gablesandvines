@@ -1,9 +1,6 @@
-<p align="center">
-  <img src="./assets/banner.svg" alt="zhone 主页 Banner" />
-</p>
 
 <h1 align="center">👋 你好，我是 zhone</h1>
-<p align="center"><b>全栈开发者 · AI Agent 与自动化探索者</b></p>
+<p align="center"><b>全栈开发者 · AI Agent </b></p>
 
 <h2>🛠️ 技术栈</h2>
 
